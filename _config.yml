@@ -1,0 +1,7 @@
+title: SumPal 셈벗
+description: 소규모 사업자를 위한 iPad 회계 도우미 앱
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md

@@ -11,11 +11,13 @@ Public website for the SumPal (셈벗) iPad app. This repository only holds the 
 
 ## Files
 
-- `index.md` – landing page
-- `privacy-policy.md` – privacy policy
-- `support.md` – support and FAQ
-- `version.md` – release notes (update this when the app version changes)
-- `_config.yml` – Jekyll (`minima` theme) settings
+- `index.html` – landing page
+- `privacy-policy/index.html` – privacy policy (Korean + English)
+- `support/index.html` – support and FAQ
+- `version/index.html` – release notes (update this when the app version changes)
+- `assets/` – shared stylesheet, language toggle script, and app icon images
+- `CNAME` – custom domain `sumpal.fakukulab.com`
+- `_config.yml` – Jekyll settings
 
 ## Publishing
 
